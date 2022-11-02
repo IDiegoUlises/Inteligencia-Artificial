@@ -1,5 +1,8 @@
 # Inteligencia-Artificial Version1
 
+* pip3 install scipy
+* pip3 install TensorFlow
+
 
 ### Entrenar
 ```python
